@@ -1,6 +1,6 @@
 
 ## Introduction
-This package is created to automate metamask wallet extension using selenium webdriver. 
+This package is import to automate metamask wallet extension using selenium webdriver. 
 
 #### To Install The Package:
 
